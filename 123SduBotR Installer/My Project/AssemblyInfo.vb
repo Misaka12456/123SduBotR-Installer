@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 '查看程序集特性的值
 
 <Assembly: AssemblyTitle("123SduBotR Installer")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("123SduBotR Installer")>
-<Assembly: AssemblyCopyright("Copyright ©  2020")>
+<Assembly: AssemblyDescription("A installer for 123 SduBotR - a CoolQ QQ Bot Plugin")>
+<Assembly: AssemblyCompany("123IT Open-Source Developing Team")>
+<Assembly: AssemblyProduct("123SduBotR")>
+<Assembly: AssemblyCopyright("Copyright © 2015-2020 123IT Open-Source Developing Team. All rights reserved.")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' 方法是按如下所示使用“*”: :
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("0.5.1")>
+<Assembly: AssemblyFileVersion("0.5.1")>

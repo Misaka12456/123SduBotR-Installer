@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
         
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")>  _
-        Friend ReadOnly Property Settings() As Global._123SduBotR_Installer.My.MySettings
+        Friend ReadOnly Property Settings() As Global.ots123it.open.sdubotr.installer.My.MySettings
             Get
-                Return Global._123SduBotR_Installer.My.MySettings.Default
+                Return Global.ots123it.open.sdubotr.installer.My.MySettings.Default
             End Get
         End Property
     End Module
